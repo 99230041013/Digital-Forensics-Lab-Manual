@@ -24,6 +24,10 @@ It is especially useful in network forensics to identify malicious traffic, dete
 ## Procedure  
 1. Launch Wireshark and select the active network interface.  
 2. Start packet capture.  
+
+<img width="897" height="692" alt="Image" src="https://github.com/user-attachments/assets/c3c54991-c234-4646-b6e7-848d17e439a8" />
+
+
 3. Apply filters (e.g., `http`, `dns`, `ip.addr==192.168.1.1`).  
 4. Analyze captured traffic.  
 5. Export relevant packets for further reporting.  
@@ -35,11 +39,3 @@ It is especially useful in network forensics to identify malicious traffic, dete
 - Filtered results showing network activity.  
 - Insights on suspicious traffic.  
 
----
-
-## Output Screenshots  
-![Wireshark Capture](screenshots/wireshark-capture.png)  
-*Figure 1: Capturing live network packets with Wireshark*  
-
-![Wireshark Filter](screenshots/wireshark-filter.png)  
-*Figure 2: Applying filters to analyze HTTP traffic*  
