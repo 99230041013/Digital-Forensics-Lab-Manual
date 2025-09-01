@@ -44,6 +44,8 @@ The tool can be used in two ways:
 <img width="551" height="507" alt="Image" src="https://github.com/user-attachments/assets/d5a4bd3d-07fa-4dc2-8a75-87000fae7e58" />
 ---
 
+![Image](https://github.com/user-attachments/assets/e959be93-0992-49f9-b78d-95dff1c6dd75)
+
 ## Expected Output
 - Volatile memory dump (`.mem`)  
 - Disk image files (`.dd`, `.E01`, `.AFF`, etc.)  
