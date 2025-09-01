@@ -67,6 +67,8 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
 
 <img width="1853" height="862" alt="Image" src="https://github.com/user-attachments/assets/01d7d1e5-f20c-4a96-ae8c-0d6cba80f808" />
 
+<img width="1875" height="873" alt="Image" src="https://github.com/user-attachments/assets/760bacec-9327-479e-99a2-f2cfdc99a2bf" />
+
 ---
 
 ## Conclusion
