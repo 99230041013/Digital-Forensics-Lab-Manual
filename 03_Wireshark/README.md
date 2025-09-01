@@ -26,9 +26,12 @@ It is especially useful in network forensics to identify malicious traffic, dete
 2. Start packet capture.  
 
 <img width="897" height="692" alt="Image" src="https://github.com/user-attachments/assets/c3c54991-c234-4646-b6e7-848d17e439a8" />
+<img width="785" height="823" alt="Image" src="https://github.com/user-attachments/assets/b8debe3a-a479-4c59-864d-24e8bed227bb" />
+
+3. Apply filters 
 
 
-3. Apply filters (e.g., `http`, `dns`, `ip.addr==192.168.1.1`).  
+
 4. Analyze captured traffic.  
 5. Export relevant packets for further reporting.  
 
