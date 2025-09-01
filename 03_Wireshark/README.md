@@ -35,6 +35,9 @@ It is especially useful in network forensics to identify malicious traffic, dete
 <img width="1141" height="1006" alt="Image" src="https://github.com/user-attachments/assets/f38ea874-d414-4ad7-ac12-c435a9154d44" />
 
 4. Analyze captured traffic.  
+
+<img width="1028" height="812" alt="Image" src="https://github.com/user-attachments/assets/dd01d781-aaf5-44d2-8b27-b2e1093713a2" />
+
 5. Export relevant packets for further reporting.  
 
 ---
