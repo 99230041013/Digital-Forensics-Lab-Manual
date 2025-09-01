@@ -47,12 +47,6 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
 
 ---
 
-## Example Screenshots
-- ![Step 1 - Extract Header](screenshots/exp04_step1_extract_header.png)  
-- ![Step 2 - Analyze with MHA](screenshots/exp04_step2_mha.png)  
-- ![Step 3 - Check SPF/DKIM/DMARC](screenshots/exp04_step3_authentication.png)  
-
----
 
 ## Result
 - Successfully extracted and analyzed email headers using MHA.  
