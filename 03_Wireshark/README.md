@@ -18,6 +18,8 @@ With Wireshark, forensic analysts can:
 It is especially useful in network forensics to identify malicious traffic, detect intrusions, and reconstruct communication sessions.  
 
 ---
+<img width="1512" height="872" alt="Image" src="https://github.com/user-attachments/assets/340cf38a-d934-426d-9d43-7009e3cbc00e" />
+
 
 ## Procedure  
 1. Launch Wireshark and select the active network interface.  
