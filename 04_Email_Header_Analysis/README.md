@@ -35,6 +35,7 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
    - **Message-ID:** Unique identifier for the email  
    - **SPF / DKIM / DMARC:** Authentication checks
 
+<img width="1088" height="697" alt="Image" src="https://github.com/user-attachments/assets/c14e7010-77b1-446a-bf56-fa0839a84fdc" />
 
 4. **Check the ‘Received’ Fields**
    - Verify each server hop in reverse order (last server to first).  
