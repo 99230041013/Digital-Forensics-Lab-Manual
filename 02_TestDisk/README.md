@@ -28,7 +28,10 @@ Supported tasks include:
 <img width="970" height="530" alt="Image" src="https://github.com/user-attachments/assets/7b311b80-4ac1-4029-b251-8757bc36b5c7" />
 
 
-4. Select the partition table type (usually detected automatically).  
+4. Select the partition table type (usually detected automatically). 
+
+<img width="975" height="509" alt="Image" src="https://github.com/user-attachments/assets/2b779df0-e07d-43fb-801f-682bd892e280" />
+ 
 5. Run **Analyze** to search for lost partitions.  
 6. Choose **Quick Search** or **Deeper Search** based on results.  
 7. Highlight the lost partition(s) → press Enter to continue.  
