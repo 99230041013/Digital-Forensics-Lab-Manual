@@ -32,7 +32,7 @@ It is especially useful in network forensics to identify malicious traffic, dete
 
 3. Apply filters 
 
-
+<img width="1141" height="1006" alt="Image" src="https://github.com/user-attachments/assets/f38ea874-d414-4ad7-ac12-c435a9154d44" />
 
 4. Analyze captured traffic.  
 5. Export relevant packets for further reporting.  
