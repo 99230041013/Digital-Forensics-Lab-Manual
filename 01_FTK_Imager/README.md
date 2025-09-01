@@ -39,7 +39,8 @@ The tool can be used in two ways:
 ![Image](https://github.com/user-attachments/assets/8cca023b-9160-4477-9ff8-34b7ba744398)
 
 **Steps:**  
-1. Enter case details (examiner name, date, notes).  
+1. Enter case details (examiner name, date, notes).
+<img width="551" height="507" alt="Image" src="https://github.com/user-attachments/assets/3f21e6ac-d7c2-438c-ae53-0261d398c4ae" />  
 2. Choose destination, image name, and fragment size (0 = single file).
 3. Select “Verify images after they are created” to ensure integrity.  
 4. Start acquisition.  
