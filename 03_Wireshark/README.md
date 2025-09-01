@@ -28,6 +28,7 @@ It is especially useful in network forensics to identify malicious traffic, dete
 <img width="897" height="692" alt="Image" src="https://github.com/user-attachments/assets/c3c54991-c234-4646-b6e7-848d17e439a8" />
 <img width="831" height="712" alt="Image" src="https://github.com/user-attachments/assets/7a80a4c9-aa6f-4aa1-a012-7b598dd19f18" />
 <img width="785" height="823" alt="Image" src="https://github.com/user-attachments/assets/b8debe3a-a479-4c59-864d-24e8bed227bb" />
+<img width="783" height="744" alt="Image" src="https://github.com/user-attachments/assets/9db3cf9f-321e-45bc-82eb-1050ecccfd76" />
 
 3. Apply filters 
 
