@@ -41,7 +41,7 @@ The tool can be used in two ways:
 4. Start acquisition.  
 5. Tool generates a text report with hash values.  
 
-<img width="551" height="507" alt="Image" src="https://github.com/user-attachments/assets/d5a4bd3d-07fa-4dc2-8a75-87000fae7e58" />
+
 ---
 
 ![Image](https://github.com/user-attachments/assets/e959be93-0992-49f9-b78d-95dff1c6dd75)
