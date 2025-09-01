@@ -16,9 +16,14 @@ The tool can be used in two ways:
 
 ## Volatile Memory Acquisition
 - Open FTK Imager → select **Capture Memory**.  
-- Options include capturing **pagefile.sys** and creating an **AD1 image file**.  
-- Output: `.mem` file saved in the destination folder.  
+![Image](https://github.com/user-attachments/assets/c8db8b95-f123-4eca-9f29-2f5dca17dd64)
 
+- Options include capturing **pagefile.sys** and creating an **AD1 image file**.  
+![Image](https://github.com/user-attachments/assets/e959be93-0992-49f9-b78d-95dff1c6dd75)
+
+
+- Output: `.mem` file saved in the destination folder.  
+![Image](https://github.com/user-attachments/assets/c8db8b95-f123-4eca-9f29-2f5dca17dd64)
 ---
 
 ## Non-Volatile Memory (Disk Image) Acquisition
@@ -31,14 +36,9 @@ The tool can be used in two ways:
   - **AFF:** Open-source Advanced Forensic Format (AFF4).  
 
 
-![Image](https://github.com/user-attachments/assets/c8db8b95-f123-4eca-9f29-2f5dca17dd64)
-
-
 **Steps:**  
 1. Enter case details (examiner name, date, notes).  
 2. Choose destination, image name, and fragment size (0 = single file).
-<img width="417" height="194" alt="Image" src="https://github.com/user-attachments/assets/bc8f77c0-766c-407c-83a3-d3c68b34fc28" />
-  
 3. Select “Verify images after they are created” to ensure integrity.  
 4. Start acquisition.  
 5. Tool generates a text report with hash values.  
@@ -46,7 +46,6 @@ The tool can be used in two ways:
 
 ---
 
-![Image](https://github.com/user-attachments/assets/e959be93-0992-49f9-b78d-95dff1c6dd75)
 
 ## Expected Output
 - Volatile memory dump (`.mem`)  
