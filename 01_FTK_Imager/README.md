@@ -28,7 +28,8 @@ The tool can be used in two ways:
 
 ## Non-Volatile Memory (Disk Image) Acquisition
 - Open FTK Imager → **Create Disk Image**.  
-- Supports sources: **physical drive, logical drive, image file, folder, CD/DVD**.  
+- Supports sources: **physical drive, logical drive, image file, folder, CD/DVD**. 
+<img width="941" height="1022" alt="Image" src="https://github.com/user-attachments/assets/6cd89a13-bf32-47b8-a966-a0fea511a8fa" /> 
 - Supported formats:  
   - **RAW (dd):** Raw bitstream format.  
   - **SMART:** For Linux systems, supports compression.  
