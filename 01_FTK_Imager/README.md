@@ -30,6 +30,10 @@ The tool can be used in two ways:
   - **E01:** Proprietary EnCase format with metadata and MD5 hash.  
   - **AFF:** Open-source Advanced Forensic Format (AFF4).  
 
+
+![Image](https://github.com/user-attachments/assets/c8db8b95-f123-4eca-9f29-2f5dca17dd64)
+
+
 **Steps:**  
 1. Enter case details (examiner name, date, notes).  
 2. Choose destination, image name, and fragment size (0 = single file).  
