@@ -41,6 +41,8 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
    - Verify each server hop in reverse order (last server to first).  
    - Look for mismatched IPs or unexpected hostnames.
 
+<img width="1011" height="632" alt="Image" src="https://github.com/user-attachments/assets/5ce24a13-8cc8-4280-9d52-c7783e22370b" />
+
 5. **Authentication Results**
    - SPF → Ensures the sending server is authorized.  
    - DKIM → Confirms message content was not altered.  
