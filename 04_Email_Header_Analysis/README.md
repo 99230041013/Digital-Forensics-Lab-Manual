@@ -48,6 +48,8 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
    - DKIM → Confirms message content was not altered.  
    - DMARC → Ensures alignment between SPF/DKIM.  
 
+<img width="1816" height="878" alt="Image" src="https://github.com/user-attachments/assets/efe498a1-0691-4c4b-a2d5-103e1b4630cd" />
+
 6. **Look for Anomalies**
    - Mismatched domains in From, Return-Path, or Message-ID.  
    - Suspicious or unknown IP addresses.  
