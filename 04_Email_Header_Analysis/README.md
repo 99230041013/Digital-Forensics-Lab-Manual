@@ -25,6 +25,7 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
    - Extract the full header text.  
    - This contains metadata such as From, To, Received, Message-ID, SPF, DKIM, and DMARC.
 
+<img width="1596" height="872" alt="Image" src="https://github.com/user-attachments/assets/5b93d46c-9a4f-4293-9bfb-314f68c37179" />
 
 3. **Analyze Key Fields**
    - **From:** Sender’s email address  
@@ -33,6 +34,7 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
    - **Return-Path:** Bounce address  
    - **Message-ID:** Unique identifier for the email  
    - **SPF / DKIM / DMARC:** Authentication checks
+
 
 4. **Check the ‘Received’ Fields**
    - Verify each server hop in reverse order (last server to first).  
