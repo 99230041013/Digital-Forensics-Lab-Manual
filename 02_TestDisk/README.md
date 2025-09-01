@@ -25,9 +25,6 @@ Supported tasks include:
   
 3. Choose the affected disk.  
 
-<img width="970" height="530" alt="Image" src="https://github.com/user-attachments/assets/7b311b80-4ac1-4029-b251-8757bc36b5c7" />
-
-
 4. Select the partition table type (usually detected automatically). 
 
 <img width="975" height="509" alt="Image" src="https://github.com/user-attachments/assets/2b779df0-e07d-43fb-801f-682bd892e280" />
