@@ -19,9 +19,12 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
    - Outlook → File → Properties → *Internet headers*  
    - Yahoo → More (⋮) → *View raw message*
 
+<img width="1631" height="514" alt="Image" src="https://github.com/user-attachments/assets/61c1e415-dda1-4fe3-a73a-467ef5c925b0" />
+
 2. **Copy the Email Header**
    - Extract the full header text.  
    - This contains metadata such as From, To, Received, Message-ID, SPF, DKIM, and DMARC.
+
 
 3. **Analyze Key Fields**
    - **From:** Sender’s email address  
