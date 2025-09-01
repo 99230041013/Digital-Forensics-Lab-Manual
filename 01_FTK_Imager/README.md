@@ -36,6 +36,7 @@ The tool can be used in two ways:
   - **E01:** Proprietary EnCase format with metadata and MD5 hash.  
   - **AFF:** Open-source Advanced Forensic Format (AFF4).  
 
+![Image](https://github.com/user-attachments/assets/8cca023b-9160-4477-9ff8-34b7ba744398)
 
 **Steps:**  
 1. Enter case details (examiner name, date, notes).  
