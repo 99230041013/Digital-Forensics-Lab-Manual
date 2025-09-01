@@ -65,6 +65,8 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
 - Identified anomalies in SPF/DKIM/DMARC results that indicate possible spoofing.  
 - Documented suspicious IPs and mismatched domains.  
 
+<img width="1853" height="862" alt="Image" src="https://github.com/user-attachments/assets/01d7d1e5-f20c-4a96-ae8c-0d6cba80f808" />
+
 ---
 
 ## Conclusion
