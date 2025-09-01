@@ -34,7 +34,10 @@ Supported tasks include:
  
 5. Run **Analyze** to search for lost partitions.  
 6. Choose **Quick Search** or **Deeper Search** based on results.  
-7. Highlight the lost partition(s) → press Enter to continue.  
+7. Highlight the lost partition(s) → press Enter to continue. 
+
+<img width="772" height="528" alt="Image" src="https://github.com/user-attachments/assets/e2758c75-b5b7-42db-bea3-a731c243c983" />
+ 
 8. Write the partition structure to disk.  
 9. Reboot the system to apply changes.
 
