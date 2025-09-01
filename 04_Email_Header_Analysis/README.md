@@ -8,7 +8,6 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
 ## Tools Used
 - Mail Header Analyzer (MHA)
 - Email Clients (Gmail, Outlook, Yahoo, etc.)
-- WHOIS / IP Lookup tools
 - MXToolbox / G Suite Toolbox
 
 ---
