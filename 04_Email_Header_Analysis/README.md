@@ -55,6 +55,8 @@ To analyze email headers and detect possible email spoofing using the Mail Heade
    - Suspicious or unknown IP addresses.  
    - Abnormal timestamps.  
 
+<img width="1872" height="870" alt="Image" src="https://github.com/user-attachments/assets/e01bdf27-def3-40b6-b415-c1135b926d02" />
+
 ---
 
 
