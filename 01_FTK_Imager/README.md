@@ -16,20 +16,26 @@ The tool can be used in two ways:
 
 ## Volatile Memory Acquisition
 - Open FTK Imager → select **Capture Memory**.  
+
 ![Image](https://github.com/user-attachments/assets/c8db8b95-f123-4eca-9f29-2f5dca17dd64)
 
 - Options include capturing **pagefile.sys** and creating an **AD1 image file**.  
+
 ![Image](https://github.com/user-attachments/assets/e959be93-0992-49f9-b78d-95dff1c6dd75)
 
 
 - Output: `.mem` file saved in the destination folder.  
+
 ![Image](https://github.com/user-attachments/assets/c8db8b95-f123-4eca-9f29-2f5dca17dd64)
+
 ---
 
 ## Non-Volatile Memory (Disk Image) Acquisition
 - Open FTK Imager → **Create Disk Image**.  
 - Supports sources: **physical drive, logical drive, image file, folder, CD/DVD**. 
+
 <img width="941" height="1022" alt="Image" src="https://github.com/user-attachments/assets/6cd89a13-bf32-47b8-a966-a0fea511a8fa" /> 
+
 - Supported formats:  
   - **RAW (dd):** Raw bitstream format.  
   - **SMART:** For Linux systems, supports compression.  
