@@ -59,3 +59,10 @@ The tool can be used in two ways:
 - Volatile memory dump (`.mem`)  
 - Disk image files (`.dd`, `.E01`, `.AFF`, etc.)  
 - Hash verification report confirming evidence integrity  
+
+## References
+- https://www.exterro.com/digital-forensics-software/ftk-imager
+- FTK Imager Documentation
+
+
+
