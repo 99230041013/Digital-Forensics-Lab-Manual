@@ -45,11 +45,4 @@ Supported tasks include:
 - Restored access to lost files.  
 - A session log file containing recovery details.  
 
----
-
-## Output Screenshots
-![Partition Analysis](screenshots/testdisk-analysis.png)  
-*Figure 1: Analyzing disk for lost partitions using TestDisk*  
-
-![Partition Recovery](screenshots/testdisk-recovery.png)  
-*Figure 2: Partition successfully recovered with TestDisk*  
+<img width="724" height="447" alt="Image" src="https://github.com/user-attachments/assets/6dbe43b1-4ea7-4ba0-a5db-fc2ae4eb063a" />
