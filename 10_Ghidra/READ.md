@@ -47,8 +47,7 @@ Step-by-step instructions on performing static analysis using Ghidra:
 * Instructions for setting up a virtualized and isolated analysis environment.
 * Guide on installing Ghidra and verifying the Java dependency.
 
-![images/exp1-disk-step1.png](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/97de06473d645e6627f8ffd9004efdb5c19742a8/images/10.18.png)
-
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4eea3590-d8e2-4612-b56c-a5dfe6e0b6c8" />
 #### B. Initial Analysis
 * **Loading the Binary:** How to launch Ghidra, create a new project, and import the sample binary.
 * **Auto-Analysis:** How to run the initial Ghidra auto-analysis and select appropriate analyzers.
