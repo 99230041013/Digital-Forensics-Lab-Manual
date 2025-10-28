@@ -47,8 +47,6 @@ Step-by-step instructions on performing static analysis using Ghidra:
 * Instructions for setting up a virtualized and isolated analysis environment.
 * Guide on installing Ghidra and verifying the Java dependency.
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4eea3590-d8e2-4612-b56c-a5dfe6e0b6c8" />
-
 <img width="1479" height="737" alt="Image" src="https://github.com/user-attachments/assets/e5ba3f7c-f610-4400-925b-3db839169a01" />
 
 #### B. Initial Analysis
